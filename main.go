@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	const token = "6df4a6fe00930a"
+	const token = "APIKEY"
 
 	var targetIP string
 	fmt.Printf("Target IP Address:  ")
